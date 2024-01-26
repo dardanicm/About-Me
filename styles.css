@@ -1,0 +1,22 @@
+html {
+    background-color: beige;
+}
+
+
+
+h1 {
+    color:red;
+    font-weight: 1000;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
+h2 {
+    color: brown;
+    font-style: oblique;
+}
+
+h3 {
+    color: cornflowerblue;
+}
